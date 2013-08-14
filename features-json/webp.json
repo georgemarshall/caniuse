@@ -1,6 +1,6 @@
 {
   "title":"WebP image format",
-  "description":"Image format that supports lossy and lossless compression, as well as animation and alpha transparency.",
+  "description":"Image format that supports lossy and lossless compression, with full alpha channel transparency.",
   "spec":"https://developers.google.com/speed/webp/",
   "status":"other",
   "links":[
